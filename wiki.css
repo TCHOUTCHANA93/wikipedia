@@ -1,0 +1,25 @@
+body{
+    background-image:radial-gradient(circle, #a44f1e, #b8792e, #c7a348, #d2ce6d, #dbf89b);
+}
+.search{
+    text-align: center;
+}
+
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Roboto', sans-serif;
+}
+
+a{
+    color: rgb(78, 74, 18) !important;
+}
+
+.btn{
+    background-color: white !important;
+}
+
+.border{
+    display:none;
+    text-align: center;
+}
